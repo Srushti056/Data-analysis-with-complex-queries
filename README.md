@@ -17,6 +17,4 @@ PostgreSQL: Known for its open-source nature, robustness, and compliance with SQ
 MySQL: Another popular open-source option, known for its ease of use and efficiency in handling a wide range of data analysis tasks.
 Microsoft SQL Server: Preferred in enterprise environments, offering extensive tools and features for data analysis, along with strong integration with other Microsoft products.Oracle Database: Widely used in large enterprises for its scalability, reliability, and comprehensive data management and analysis features.
 
-#output: C:\Users\My PC\Downloads\SQL-HAVING-1.webp
-
-
+#output: C:\Users\My PC\Downloads\SQL-HAVING-1.webp ![tableoutput](https://github.com/user-attachments/assets/4c72a45f-731e-4b5b-9135-27ce660a0323)
